@@ -1,0 +1,164 @@
+body{
+	background-color: rgba(0, 84, 204, 0.04);
+  }
+input{
+ height:40px;
+}
+.btn {
+   border-radius: 2px;
+   text-transform: capitalize;
+   font-size: 15px;
+   padding: 10px 19px;
+   cursor: pointer
+}
+
+.m-b-20 {
+   margin-bottom: 20px
+}
+
+.btn-md {
+   padding: 10px 16px;
+   font-size: 15px;
+   line-height: 23px
+}
+
+.heading {
+   font-size: 21px
+}
+
+#infoMessage p {
+   color: red !important
+}
+
+.btn-google {
+   color: #545454;
+   background-color: #ffffff;
+   box-shadow: 0 1px 2px 1px #ddd
+}
+
+.or-container {
+   align-items: center;
+   color: #ccc;
+   display: flex;
+   margin: 25px 0
+}
+
+.line-separator {
+   background-color: #ccc;
+   flex-grow: 5;
+   height: 1px
+}
+
+.or-label {
+   flex-grow: 1;
+   margin: 0 15px;
+   text-align: center
+}
+.form-gap {
+    padding-top: 70px;
+}
+a{
+	text-decoration:none !important;
+	}
+	
+	 .myform{
+   position: relative;
+   display: -ms-flexbox;
+   display: flex;
+   padding: 1rem;
+   -ms-flex-direction: column;
+   flex-direction: column;
+   width: 100%;
+   pointer-events: auto;
+   background-color: #fff;
+   background-clip: padding-box;
+   border: 1px solid rgba(0,0,0,.2);
+   border-radius: 1.1rem;
+   outline: 0;
+   max-width: 500px;
+	}
+	.tx-tfm{
+	text-transform:uppercase;
+	}
+	.mybtn{
+	border-radius:50px;
+	}
+   
+	.login-or {
+	position: relative;
+	color: #aaa;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+	.span-or {
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: -2px;
+	margin-left: -25px;
+	background-color: #fff;
+	width: 50px;
+	text-align: center;
+	}
+	.hr-or {
+	height: 1px;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	}
+	
+	 form .error {
+	color: #ff0000;
+	}
+	.myform{
+		position: relative;
+		display: -ms-flexbox;
+		display: flex;
+		padding: 1rem;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		width: 100%;
+		pointer-events: auto;
+		background-color: #fff;
+		background-clip: padding-box;
+		border: 1px solid rgba(0,0,0,.2);
+		border-radius: 1.1rem;
+		outline: 0;
+		max-width: 500px;
+		 }
+         .tx-tfm{
+         text-transform:uppercase;
+         }
+         .mybtn{
+         border-radius:50px;
+         }
+        
+         .login-or {
+         position: relative;
+         color: #aaa;
+         margin-top: 10px;
+         margin-bottom: 10px;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         }
+         .span-or {
+         display: block;
+         position: absolute;
+         left: 50%;
+         top: -2px;
+         margin-left: -25px;
+         background-color: #fff;
+         width: 50px;
+         text-align: center;
+         }
+         .hr-or {
+         height: 1px;
+         margin-top: 0px !important;
+         margin-bottom: 0px !important;
+         }
+         
+          form .error {
+         color: #ff0000;
+         }
+   
